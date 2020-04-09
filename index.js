@@ -1,9 +1,9 @@
 // Code your solutions in this file
-const names =  [ 'Lisa', 'Kaitlin', 'Jan'];
+const Array3 =  [ 'Lisa', 'Kaitlin', 'Jan'];
 
-function writeCards(names, event) {
-for (let i = 0; i < names.length; i++) {
-  console.log(`Thank you, ${names[i]}, for the wonderful ${event} gift!`);
+function writeCards(Array3, event) {
+for (let i = 0; i < Array3s.length; i++) {
+  console.log(`Thank you, ${Array3[i]}, for the wonderful ${event} gift!`);
  }
-return names;
+return Array3;
 }
