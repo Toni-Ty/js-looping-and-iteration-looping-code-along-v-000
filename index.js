@@ -2,5 +2,5 @@
 const names =  [ 'Lisa', 'Kaitlin', 'Jan' ];
 
 function writeCards(names, event) {
-  
+
 }
