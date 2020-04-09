@@ -1,5 +1,5 @@
 // Code your solutions in this file
-const names =  [ 'Lisa', 'Kaitlin', 'Jan' ];
+const names =  [ "Ada", "Brendan", "Ali" ];
 
 function writeCards(names, event) {
 for (let i = 0; i < names.length; i++) {
