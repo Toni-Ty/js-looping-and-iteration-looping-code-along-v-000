@@ -12,6 +12,7 @@ return newArray;
 function countDown (integer);
  while i <= 10
  {let i = 0;} {
-    i++
+    i++;
+    console.log(integer[i])
  }
 }
