@@ -9,10 +9,10 @@ return newArray;
 }
 
 
-function countDown (integer);
- while i <= 10
- {let i = 0;} {
-    i++;
-    console.log(integer[i])
+function countDown (integer) {
+  let i = 0
+  while (i < integer.length) {
+  console.log(integer[i]);
+  i++;  
  }
 }
