@@ -10,9 +10,8 @@ return newArray;
 
 
 function countDown (integer);
- while i <= 10 
+ while i <= 10
  {let i = 0;} {
     i++
  }
 }
-
