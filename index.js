@@ -7,3 +7,12 @@ const newArray = (`Thank you, ${Array3s[i]}, for the wonderful ${surprise} gift!
  }
 return newArray;
 }
+
+
+function countDown (integer);
+ while i <= 10 
+ {let i = 0;} {
+    i++
+ }
+}
+
