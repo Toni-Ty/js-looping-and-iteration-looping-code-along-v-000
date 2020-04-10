@@ -13,6 +13,6 @@ function countDown (integer) {
   let i = 0
   while (i < integer.length) {
   console.log(integer[i]);
-  i++;
+  i--;
  }
 }
